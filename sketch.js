@@ -54,7 +54,7 @@ function setup() {
  myEng=Engine.create();
  myWorld = myEng.world;
 
- /rect body: ground
+ //rect body: ground
  
 
  nayan=new Ball();
